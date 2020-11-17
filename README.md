@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Shehaz</a> <img
+src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
 
-<!--
-**sh3hz/sh3hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Live to Learn. Connect with me here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-MuhammedShehaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammedshehaz/)](https://www.linkedin.com/in/muhammedshehaz/)
+[![Instagram Badge](https://img.shields.io/badge/-sh3hz-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh3hz/)](https://www.instagram.com/sh3hz/)
+[![Website Badge](https://img.shields.io/badge/-sh3hz.me-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://sh3hz.me/)](https://sh3hz.me/)
+[![Gmail Badge](https://img.shields.io/badge/-mail@sh3hz.me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehax21@gmail.com)](mailto:shehaz21@gmail.com)
+
