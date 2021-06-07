@@ -4,8 +4,6 @@
 
 Live to Learn. Connect with me here.
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-MuhammedShehaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammedshehaz/)](https://www.linkedin.com/in/muhammedshehaz/)
 [![Instagram Badge](https://img.shields.io/badge/-sh3hz-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh3hz/)](https://www.instagram.com/sh3hz/)
