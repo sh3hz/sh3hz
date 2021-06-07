@@ -1,5 +1,4 @@
-<h1 >Hi there, I'm <a href="https://sh3hz.me/" target="_blank">Shehaz</a> <img
-src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
+<h1 >Hi there, I'm <a href="https://sh3hz.me/" target="_blank">Muhammed Shehaz</a></h1>
 
 <br />
 
