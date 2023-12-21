@@ -7,7 +7,7 @@ Live to Learn. Connect with me here.
 
 [![Linkedin Badge](https://img.shields.io/badge/-MuhammedShehaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammedshehaz/)](https://www.linkedin.com/in/muhammedshehaz/)
 [![Instagram Badge](https://img.shields.io/badge/-sh3hz-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sh3hz/)](https://www.instagram.com/sh3hz/)
-[![Website Badge](https://img.shields.io/badge/-sh3hz.me-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://sh3hz.me/)](https://sh3hz.me/)
+[![Website Badge](https://img.shields.io/badge/-sh3hz.me-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://sh3hz.github.io/)](https://sh3hz.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@sh3hz.me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehax21@gmail.com)](mailto:shehaz21@gmail.com)
 
 
