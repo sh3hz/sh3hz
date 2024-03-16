@@ -5,8 +5,8 @@
 Live to Learn. Connect with me here.
 
 
-[![Website Badge](https://img.shields.io/badge/-sh3hz.me-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://sh3hz.github.io/)](https://sh3hz.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-mail@sh3hz.me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehax21@gmail.com)](mailto:shehaz21@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-shehaz.xyz-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://sh3hz.github.io/)](https://sh3hz.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-hello@shehaz.xyz-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehax21@gmail.com)](mailto:shehaz21@gmail.com)
 
 
 Languages and Tools:
